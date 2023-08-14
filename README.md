@@ -1,5 +1,5 @@
 
-[![MasterHead](https://www.canva.com/design/DAFriBywaVQ/2yThgIpzmT_rGh85vFMODA/edit?utm_content=DAFriBywaVQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)](https://sumitjha.netlify.app)
+[![MasterHead](https://ibb.co/QYSWDQ6)](https://sumitjha.netlify.app)
 <h1 align="center">Hi 👋, I'm Aditya raj</h1>
 
 
