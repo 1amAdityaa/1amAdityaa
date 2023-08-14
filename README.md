@@ -1,5 +1,5 @@
 
-[![MasterHead](https://ibb.co/QYSWDQ6)](https://sumitjha.netlify.app)
+[![MasterHead](https://i.imgur.com/bPMSGkC.jpg)](https://sumitjha.netlify.app)
 <h1 align="center">Hi 👋, I'm Aditya raj</h1>
 
 
