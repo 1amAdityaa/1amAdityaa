@@ -28,7 +28,7 @@
 <p align="center">
   <img
     src="https://komarev.com/ghpvc/?username=1amsumit&label=Profile%20views&color=0e75b6&style=flat"
-    alt="1amsumit"
+    alt="1amAdityaa"
   />
 </p>
 
@@ -37,16 +37,16 @@
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"
     ><img
-      src="https://github-profile-trophy.vercel.app/?username=1amsumit"
-      alt="1amsumit"
+      src="https://github-profile-trophy.vercel.app/?username=1amAdityaa"
+      alt="1amAdityaa"
   /></a>
 </p>
 
 <p align="center">
-  <a href="https://twitter.com/1am_sumitjha" target="blank"
+  <a href="https://twitter.com/1amAdityaa" target="blank"
     ><img
-      src="https://img.shields.io/twitter/follow/1am_sumitjha?logo=twitter&style=for-the-badge"
-      alt="1am_sumitjha"
+      src="https://img.shields.io/twitter/follow/1amAdityaa?logo=twitter&style=for-the-badge"
+      alt="1amAdityaa"
   /></a>
 </p>
 
@@ -60,35 +60,35 @@
 
 
 
-- 🔭 I’m currently working on [Chess project](https://github.com/1amSumit/Chess)
-- 🌱 I’m currently learning **React** - 👨‍💻 All of my projects are available at
-[https://sumitjha.netlify.app/](https://sumitjha.netlify.app/) - 💬 Ask me about
-**react, Blockchain** - 📫 How to reach me **sumitjha.0718@gmail.com** - ⚡ Fun
-fact **I love to play guitar and I love Hindi Poetry.**
+- 🔭 I’m currently working on HTML
+- 🌱 I’m currently learning **frontend web developement**
+-  - 💬 Ask me about
+**frontend web developement** - 📫 How to reach me **adityaraj76692@gmail.com** - ⚡ Fun
+fact **I love to play cricket .**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://twitter.com/1am_sumitjha" target="blank"
+  <a href="https://twitter.com/1amAdityaa" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="1am_sumitjha"
+      alt="1amAdityaa"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.linkedin.com/in/sumit-kumar-jha-0718skj/" target="blank"
+  <a href="https://www.linkedin.com/in/aditya-raj-27911027a//" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="https://www.linkedin.com/in/sumit-kumar-jha-0718skj/"
+      alt="https://www.linkedin.com/in/aditya-raj-27911027a//"
       height="30"
       width="40"
   /></a>
-  <a href="https://www.instagram.com/1am.sumit/" target="blank"
+  <a href="https://www.instagram.com/adit_ya_.33/" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="https://www.instagram.com/1am.sumit/"
+      alt="https://www.instagram.com/adit_ya_.33/"
       height="30"
       width="40"
   /></a>
