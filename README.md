@@ -60,7 +60,7 @@
 
 
 
-- 🔭 I’m currently working on HTML
+- 🔭 I’m currently working on NODE.js
 - 🌱 I’m currently learning **frontend web developement**
 -  - 💬 Ask me about
 **frontend web developement** - 📫 How to reach me **adityaraj76692@gmail.com** - ⚡ Fun
