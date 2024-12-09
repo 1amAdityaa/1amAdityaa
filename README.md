@@ -1,5 +1,5 @@
 
-[![MasterHead](https://i.imgur.com/bPMSGkC.jpg)]
+![MasterHead](https://i.imgur.com/bPMSGkC.jpg)
 <h1 align="center">Hi 👋, I'm Aditya raj</h1>
 
 
@@ -27,7 +27,7 @@
 
 <p align="center">
   <img
-    src="https://komarev.com/ghpvc/?username=1amsumit&label=Profile%20views&color=0e75b6&style=flat"
+    src="https://komarev.com/ghpvc/?username=1amAdityaa&label=Profile%20views&color=0e75b6&style=flat"
     alt="1amAdityaa"
   />
 </p>
@@ -60,11 +60,11 @@
 
 
 
-- 🔭 I’m currently working on NODE.js
-- 🌱 I’m currently learning **frontend web developement**
+- 🔭 I’m currently working on BACKEND DEVELOPEMENT AND GENERATIVE AI
+- 🌱 I’m currently learning **FULL STACK DEVELOPEMENT**
 -  - 💬 Ask me about
-**frontend web developement** - 📫 How to reach me **adityaraj76692@gmail.com** - ⚡ Fun
-fact **I love to play cricket .**
+**FULL STACK DEVELOPEMENT AND AI** - 📫 How to reach me **adityaraj76692@gmail.com** - ⚡ Fun
+fact **I love to play cricket.**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
